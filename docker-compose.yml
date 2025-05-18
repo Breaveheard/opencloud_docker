@@ -1,0 +1,8 @@
+# docker-compose.yml
+---
+
+volumes:
+  certs:
+
+networks:
+  opencloud-net:
